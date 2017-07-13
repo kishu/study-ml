@@ -1,8 +1,47 @@
+
+Machine Learning
+===
+
+---
+
 # Machine Learning
 
 Limitations of explicit programming
 
 > "Fiend of study that givew computers the ability to lerarn without being explicitly programmed" - Arthur Samuel(1959)
+
+---
+
+> A computer program is said to **learn** from **experence E** with respect to some class of **tasks T** and **performance measure P**, if its performance at tasks in **T**, as measured by **P**, improves with experience **E** - T.Michell(1997)
+
+---
+
+**Tasks**
+* classification: discrete target values
+* regression: real target values
+* custering: no target values
+
+**Performance**
+* classification: 0-1 loss function
+* regression: L2 loss function
+* custering
+
+**Experience**
+* classification: labeled data
+* regression: labeled data
+* custering: unlabeled data
+
+---
+
+# 학습?
+
+학습은 단순한 암기(memorization)가 아니라,
+
+학습의 과정을 통해 자신도 모르는 사이에
+일반화(generalization) 과정을 거치게 되며,
+
+이를 통해 새로운 무엇을 접하더라도 예측(prediction) 할 수 있는
+능력을 갖게 하는 것이 바로 학습이다.
 
 ---
 
@@ -27,6 +66,36 @@ Predicting final exam score based on time spent
 Pass/non-pass based on time spent
 * Multi-label classification
 Letter grade(A, B, C, E and F) based on time spent
+
+---
+
+# Supervised learnint workflow
+
+![Supervised learnint workflow](http://en.proft.me/media/science/ml_svlw.jpg)
+
+---
+
+# Training data set
+
+머신이 미리 학습할 데이터
+특징(feature)과 결과(labeled)로 구성
+
+![](http://3qeqpr26caki16dnhd19sv6by6v.wpengine.netdna-cdn.com/wp-content/uploads/2014/03/iris-dataset-sample.png)
+
+[Iris flower data set](https://en.wikipedia.org/wiki/Iris_flower_data_set)
+
+---
+
+# Public data sets
+
+* [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
+* [Google Public Data](https://www.google.com/publicdata/directory)
+* kaggle에 올라오는 논문이나 질문에 포함된 데이터셋
+
+---
+
+Linear Regression
+===
 
 ---
 

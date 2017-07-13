@@ -132,3 +132,5 @@ http://moducampus.com/assets/uploads/solution/2017/06/7151199dd86a562b945d7332e6
 
 * 선형회귀와 Gradient Descent
 https://www.youtube.com/watch?v=GmtqOlPYB84
+* Knapsack problem
+https://en.wikipedia.org/wiki/Knapsack_problem

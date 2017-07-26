@@ -256,9 +256,18 @@ Logistic Regression
 
 # sigmoid
 
+S자 모양의, 결장(結腸)
+y가 0.5에 가까워 진다면 특이사항으로 분류해야
+
 ![](img/sigmoid.png)
 
 ---
+
+# Activation-function-derivatives
+
+![](img/activation-function-derivatives.png)
+
+----
 
 # 자연상수
 
@@ -313,11 +322,6 @@ Liner Regression Cost Function을 사용할 수 없다.
 # Minimize - Gradient Decent Algorithem
 
 ![](img/minimize-cost-for-logistic.png)
-
-
-
-
-
 
 
 

@@ -8,6 +8,13 @@ TensorFlow는 데이터 플로우 그래프를 사용해 수와 관련있는 계
 Deep Learning with TensorFlow - Introduction to TensorFlow
 https://www.youtube.com/watch?v=MotG3XI2qSs
 
+Data Flow Graph
+Graph: Computation Units
+ - Node: Mathematical Operation
+ - Edge: Multidemensionam data arrys(tensor)
+         Communicated between them
+   
+
 tensor
 A mathematical object analogous to but more general than a vector,
 represented by an array of components that are functions of the coordinates of a space.

@@ -35,6 +35,12 @@ for today's most challenging problems
 
 ---
 
+# ML/DL Environment
+
+![](img/ml-dl-environment.png)
+
+---
+
 # Tensor 
 
 Tensor is n-dimension structure
@@ -155,7 +161,7 @@ plt.show()
 | Concept | Implementation |
 | ------- | -------------- |
 | Prepared Data | Generated house size and price data | 
-| Inference(추론) | Price = (sizeFactor * size) + priceOffset |
+| Inference(ì¶”ë¡ ) | Price = (sizeFactor * size) + priceOffset |
 | Loss Measurement | Mean Square Error |
 | Optimizer to Minimize Loss | Gradient Descent Optimize |
 
